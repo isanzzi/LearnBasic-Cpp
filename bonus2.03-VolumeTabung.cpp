@@ -12,10 +12,7 @@ int main() {
     cin >> r >> t;
     hasil = (float) r * r * t * 3.14;
     
-    int temp = hasil * 100;
-    float output = temp / 100.0;
-    
-    cout << output << endl;
+    cout << hasil << endl;
     
     return 0;
 }
