@@ -1,6 +1,5 @@
 /* 
 Deskripsi : Menampilkan bilangan dua kali lipat
-Nama / Author : Ihsan Fauzi
 Tanggal / Versi : 21 Oktober 2024
 */
 

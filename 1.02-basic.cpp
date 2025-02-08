@@ -1,6 +1,5 @@
 /* 
 Deskripsi : Mengurutkan bilangan dari x sampai y, setiap bilangan dipisahkan oleh spasi
-Nama /Author : Ihsan Fauzi
 Tanggal/versi : 21 Oktober 2024
 */
 

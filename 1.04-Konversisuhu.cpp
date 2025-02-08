@@ -1,6 +1,5 @@
 /* Program : CelciusToFahrenheit.cpp
  * Deskripsi : Mengonversi suhu dalam celcius ke fahrenheit
- * Nama : Ihsan Fauzi
  * Tanggal/ Versi : 21 Oktober 2024
  * Catatan: °F = °C × 1,8 + 32
  */

@@ -1,6 +1,5 @@
 /*Program : BiayaSetelahBunga.cpp
 * Deskripsi : Menentukan Biaya yang harus dibayar
-* Nama : Ihsan Fauzi
 * tanggal/ versi : 24 Oktober 2024
 */
 

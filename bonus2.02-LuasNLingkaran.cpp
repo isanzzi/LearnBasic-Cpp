@@ -1,6 +1,4 @@
 /*
-Nama    : Ihsan Fauzi
-Kelas   : 1B-D4
 */
 
 #include <iostream>

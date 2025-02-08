@@ -1,6 +1,5 @@
 /* Program: ReamurToKelvin_Nama.cpp
  * Deskripsi: Mengonversi suhu Reamur ke Kelvin
- * Nama: Ihsan Fauzi
  * Tanggal/versi: 
  * Compiler: G++
  */

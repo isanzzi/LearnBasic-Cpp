@@ -1,7 +1,6 @@
 /* 
 Deskripsi   = Mengurutkan bilangan x sampai y
 Penjelasan  = Mengurutkan bilangan x sampai y dan selalu new line tetapi di akhir tidak boleh new line
-Author      = Ihsan Fauzi
 Tanggal     = 21 Oktober 2024
 */
 
